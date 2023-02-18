@@ -1,0 +1,1 @@
+export const DeployedURL = "http://localhost:5000";
